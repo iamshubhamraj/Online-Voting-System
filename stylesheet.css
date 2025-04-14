@@ -1,0 +1,32 @@
+body{
+    
+    background-color: skyblue;
+}
+
+#headersection{
+    padding: 12px;
+}
+
+#headersection h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+
+}
+
+#loginbtn{
+    padding: 10px;
+    font-size: 15px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
